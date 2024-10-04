@@ -31,7 +31,7 @@ The write-up is the portion where you can demonstrate the complete thought proce
 3. Hypothesis (Optional, but could make your write-up more cohesive)
 4. Methods (1 or more paragraphs, feel free to include different models you tried but emphasize on the model(s) you choose to report the results on)
 5. Results and Discussion (One or more paragraphs, include any results).
-6. Any outside resources that you use
+6. Any outside resources that you use (cite your sources!)
 
 Submit your write-up as a PDF. You can commit and push this file along with the rest of your code files!
 
@@ -66,9 +66,7 @@ A: Here is the criteria we will be judging on:
     - If you left your code and came back to it three years later, could you still understand it?
 - Explanation
     - How clearly did you explain your thinking process and solution?
-    - Bonus points will be given for clear, succinct comments within the code. Overly lengthy comments may not be considered as good explanations. 
-- Bonus Points (will not hurt your application, only help it)
-    - Explained in each level!
+    -We are looking for clear, succinct comments within the code. Overly lengthy comments may not be considered as good explanations. 
 
 **Q: How do I use Github?**
 A: Follow the steps below: 
