@@ -16,7 +16,7 @@ As we have done for levels 1 and 2, you should keep track of your answers to the
 ## Submission:
 The code you are using to load the dataset you choose as well as clean the dataset should be located in the [Submissions](/Submissions/) folder – you may title this notebook as you wish.
 
-## Bonus Points!! 
+## What are we looking for?
 - Describing <b>in your report<b> what an evaluation metric means in real world terms (in context of your focus question)<br>
 - Very nice code comments (up to the grader's discretion)<br>
 

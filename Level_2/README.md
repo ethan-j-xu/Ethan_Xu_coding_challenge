@@ -18,7 +18,7 @@ Similar to [Level_1](Level_1/README.md), you should keep track of your answers t
 ## Submission:
 The code you are using to load the dataset you choose as well as clean the dataset should be located in the [Submissions](/Submissions/) folder, you may title this notebook as you wish.
 
-## Bonus Points!!
+## What are we looking for?
 - Using Python<br>
 - Very nice code comments (up to the grader's discretion)<br>
 
